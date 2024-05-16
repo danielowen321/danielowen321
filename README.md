@@ -8,6 +8,7 @@
 <h2>Certifications:</h2>
 
   - [Introduction to Artificial Intelligence](Certificate.pdf)
+  - [Introduction to Vulnerability Management] (Introduction to Vulnerability Management-course.pdf).
 
 
 <h2>Currently learning:</h2>
@@ -24,7 +25,7 @@
 [linkedin]: https://www.linkedin.com/in/danielowen321/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danielowen321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
