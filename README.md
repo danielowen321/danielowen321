@@ -8,7 +8,7 @@
 <h2>Certifications:</h2>
 
   - [Introduction to Artificial Intelligence](Certificate.pdf)
-  - [Introduction to Vulnerability Management] (Introduction to Vulnerability Management-course.pdf).
+  - [Introduction to Vulnerability Management](Introduction to Vulnerability Management-course.pdf)
 
 
 <h2>Currently learning:</h2>
