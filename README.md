@@ -11,10 +11,11 @@
   - [Introduction to Vulnerability Management](https://github.com/danielowen321/danielowen321/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
 
 
+<h2>Tools:</h2>
+
 <h2>Currently learning:</h2>
 
 <h2>Connect with me:</h2>
-
 
 [<img align="left" alt="DanielOwen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DanielOwen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
