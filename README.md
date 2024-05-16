@@ -1,6 +1,6 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielowen321">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielowen321">Aspiring Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
   - [Metasploitable 2 HomeLab](https://github.com/danielowen321/Metasploitable2-HomeLab)
   
