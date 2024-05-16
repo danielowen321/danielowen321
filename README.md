@@ -7,6 +7,9 @@
 
 <h2>Certifications:</h2>
 
+  - [Introduction to Artificial Intelligence](Certificate.pdf)
+
+
 <h2>Currently learning:</h2>
 
 <h2>Connect with me:</h2>
