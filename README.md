@@ -9,6 +9,8 @@
 
   - [Introduction to Artificial Intelligence](Certificate.pdf)
   - [Introduction to Vulnerability Management](https://github.com/danielowen321/danielowen321/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
+  - [Introduction to HTML](https://github.com/danielowen321/danielowen321/blob/main/HTML%20certificate.pdf)
+  - [Introduction to CSS](https://github.com/danielowen321/danielowen321/blob/main/CSS%20certificate.pdf)
   - [Telstra job simulation ](https://github.com/danielowen321/danielowen321/blob/main/Telstra%20job%20sim%20certificate.pdf)
   - [Mastercard job simulation](https://github.com/danielowen321/danielowen321/blob/main/mastercard%20job%20sim%20certificate.pdf)
 
