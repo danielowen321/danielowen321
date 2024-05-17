@@ -51,7 +51,7 @@
 
 [instagram]: https://www.instagram.com/dann_owenn/
 [linkedin]: https://www.linkedin.com/in/danielowen321/
-[TryHackMe](https://tryhackme.com/badge/3097766/)
+
 
 <!--
 **danielowen321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
