@@ -1,8 +1,6 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielowen321">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hello, I'm Daniel</h1>
+I am a current cybersecurity student aspiring to begin my career in the exciting world of cybersecurity! 
 
-<h2>Cybersecurity Projects:</h2>
-
-  - [Metasploitable 2 HomeLab](https://github.com/danielowen321/Metasploitable2-HomeLab)
   
 
 <h2>Certifications:</h2>
@@ -36,11 +34,22 @@
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-<h2>Extra-Curricular:</h2>
+## Skills
 
-  - [Telstra job simulation ](https://github.com/danielowen321/danielowen321/blob/main/Telstra%20job%20sim%20certificate.pdf)
-  - [Mastercard job simulation](https://github.com/danielowen321/danielowen321/blob/main/mastercard%20job%20sim%20certificate.pdf)
-  - [BlueTeamLabs Phishing Analysis](https://blueteamlabs.online/achievement/share/challenge/76861/16)
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Response, Analysis and Mitigation of Malware Attack        |[Telstra job simulation ](https://github.com/danielowen321/danielowen321/blob/main/Telstra%20job%20sim%20certificate.pdf)|
+| Design a Phishing Email Simulation                         |[Mastercard job simulation](https://github.com/danielowen321/danielowen321/blob/main/mastercard%20job%20sim%20certificate.pdf)|
+| Analyse Phishing Email                                     |[BlueTeamLabs Phishing Analysis](https://blueteamlabs.online/achievement/share/challenge/76861/16)|
+| Incident Response Planning and Execution                   | SOC Automation Lab|
+| Case Management with TheHive                               | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation             | SOC Automation Lab|
+
+<h2>Cybersecurity Projects:</h2>
+
+  - [Metasploitable 2 HomeLab](https://github.com/danielowen321/Metasploitable2-HomeLab)
+
 
 <h2>Connect with me:</h2>
 
