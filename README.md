@@ -42,7 +42,7 @@ I am a current cybersecurity student aspiring to begin my career in the exciting
 | Response, Analysis and Mitigation of Malware Attack        |[Telstra job simulation ](https://github.com/danielowen321/danielowen321/blob/main/Telstra%20job%20sim%20certificate.pdf)|
 | Design a Phishing Email Simulation                         |[Mastercard job simulation](https://github.com/danielowen321/danielowen321/blob/main/mastercard%20job%20sim%20certificate.pdf)|
 | Analyse Phishing Email                                     |[BlueTeamLabs Phishing Analysis](https://blueteamlabs.online/achievement/share/challenge/76861/16)|
-| Documented Nessus report                                   | [Nessus scan report](https://github.com/danielowen321/danielowen321/blob/main/Nessus%20security%20scan%20report%20update.odt)|
+| Documented Nessus report                                   | [Nessus scan report](https://github.com/danielowen321/danielowen321/blob/main/Nessus%20security%20scan%20report.pdf)|
                                                            
                                                            
 
