@@ -49,6 +49,7 @@ I am a current cybersecurity student aspiring to begin my career in the exciting
 <h2>Cybersecurity Projects:</h2>
 
   - [Metasploitable 2 HomeLab](https://github.com/danielowen321/Metasploitable2-HomeLab)
+  - [Active Directory Lab](https://github.com/danielowen321/Active-Directory-Lab)
 
 
 <h2>Connect with me:</h2>
