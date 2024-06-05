@@ -34,6 +34,12 @@ I am a current cybersecurity student aspiring to begin my career in the exciting
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+</div>
+
 <h2>Skills:</h2>
 
 
