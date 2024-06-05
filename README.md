@@ -1,5 +1,5 @@
-<h1>Hello, I'm Daniel</h1>
-I am a current cybersecurity student aspiring to begin my career in the exciting world of cybersecurity! 
+<h1>Hey, I'm Daniel</h1>
+I'm a current cybersecurity student aspiring to begin my career in the exciting world of cybersecurity! 
 
   
 
@@ -10,6 +10,15 @@ I am a current cybersecurity student aspiring to begin my career in the exciting
   - [Introduction to HTML](https://github.com/danielowen321/danielowen321/blob/main/HTML%20certificate.pdf)
   - [Introduction to CSS](https://github.com/danielowen321/danielowen321/blob/main/CSS%20certificate.pdf)
 
+<h2>Skills:</h2>
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Response, Analysis and Mitigation of Malware Attack        |[Telstra job simulation ](https://github.com/danielowen321/danielowen321/blob/main/Telstra%20job%20sim%20certificate.pdf)|
+| Design a Phishing Email Simulation                         |[Mastercard job simulation](https://github.com/danielowen321/danielowen321/blob/main/mastercard%20job%20sim%20certificate.pdf)|
+| Analyse Phishing Email                                     |[BlueTeamLabs Phishing Analysis](https://blueteamlabs.online/achievement/share/challenge/76861/16)|
+| Documented Nessus report                                   | [Nessus scan report](https://github.com/danielowen321/danielowen321/blob/main/Nessus%20security%20scan%20report.pdf)|
 
 <h2>Tools:</h2>
 
@@ -39,17 +48,7 @@ I am a current cybersecurity student aspiring to begin my career in the exciting
     <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
 </div>
-
-<h2>Skills:</h2>
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Response, Analysis and Mitigation of Malware Attack        |[Telstra job simulation ](https://github.com/danielowen321/danielowen321/blob/main/Telstra%20job%20sim%20certificate.pdf)|
-| Design a Phishing Email Simulation                         |[Mastercard job simulation](https://github.com/danielowen321/danielowen321/blob/main/mastercard%20job%20sim%20certificate.pdf)|
-| Analyse Phishing Email                                     |[BlueTeamLabs Phishing Analysis](https://blueteamlabs.online/achievement/share/challenge/76861/16)|
-| Documented Nessus report                                   | [Nessus scan report](https://github.com/danielowen321/danielowen321/blob/main/Nessus%20security%20scan%20report.pdf)|
-                                                           
+                                                     
                                                            
 
 <h2>Cybersecurity Projects:</h2>
