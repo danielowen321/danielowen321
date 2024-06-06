@@ -5,6 +5,7 @@ I'm a current cybersecurity student aspiring to begin my career in the exciting 
 
 <h2>Certifications:</h2>
 
+  - [IBM Information Technology Fundamentals](https://github.com/danielowen321/danielowen321/blob/main/IBM%20Information%20Technology%20Fundamentals.png)
   - [Introduction to Artificial Intelligence](Certificate.pdf)
   - [Introduction to Vulnerability Management](https://github.com/danielowen321/danielowen321/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
   - [Introduction to HTML](https://github.com/danielowen321/danielowen321/blob/main/HTML%20certificate.pdf)
