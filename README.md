@@ -22,7 +22,8 @@ I'm a current cybersecurity student aspiring to begin my career in the exciting 
 | Documented a Nessus Report                                 | [Nessus scan report](https://github.com/danielowen321/danielowen321/blob/main/Nessus%20security%20scan%20report.pdf)|
 | Conducted a Security Risk Assessment Report                | [Security Risk Assessment Report](https://github.com/danielowen321/danielowen321/blob/main/Security%20risk%20assessment%20report.pdf)|
 | Updated File Permissions in Linux                          | [File Permissions in Linux](https://github.com/danielowen321/danielowen321/blob/main/File%20permissions%20in%20Linux.pdf)|
-| Conducted a Cybersecurity Incident Report                       | [Cybersecurity Incident Report](https://github.com/danielowen321/danielowen321/blob/main/Cybersecurity%20incident%20report.pdf)|
+| Conducted a Cybersecurity Incident Report                  | [Cybersecurity Incident Report](https://github.com/danielowen321/danielowen321/blob/main/Cybersecurity%20incident%20report.pdf)|
+| Applied Filters to SQL Queries                             | [Apply Filters to SQL Queries](https://github.com/danielowen321/danielowen321/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)|
 
 <h2>Tools:</h2>
 
