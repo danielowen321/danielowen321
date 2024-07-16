@@ -59,7 +59,7 @@ I'm a current cybersecurity student aspiring to begin my career in the exciting 
 
 <h2>Cybersecurity Projects:</h2>
 
-  - [Python Password Generator](https://github.com/danielowen321/Active-Directory-Lab)
+  - [Python Password Generator](https://github.com/danielowen321/danielowen321/blob/main/Python%20Password%20Generator.py)
   - [Metasploitable 2 HomeLab](https://github.com/danielowen321/Metasploitable2-HomeLab)
   - [Active Directory Lab](https://github.com/danielowen321/Active-Directory-Lab)
 
