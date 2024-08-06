@@ -5,6 +5,8 @@ I'm a current cybersecurity student aspiring to begin my career in the exciting 
 
 <h2>Certifications:</h2>
 
+  - [Google Cybersecurity Professional Certificate](https://github.com/danielowen321/danielowen321/blob/main/Google%20Cybersecurity%20Certificatepdf.pdf)
+  - [ISO27001 Information Security Associate](https://github.com/danielowen321/danielowen321/blob/main/ISO27001%20Information%20Security%20Associate.pdf)
   - [IBM Information Technology Fundamentals](https://github.com/danielowen321/danielowen321/blob/main/IBM%20Information%20Technology%20Fundamentals.png)
   - [Introduction to Artificial Intelligence](Certificate.pdf)
   - [Introduction to Vulnerability Management](https://github.com/danielowen321/danielowen321/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
