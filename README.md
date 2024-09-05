@@ -1,10 +1,11 @@
 <h1>Hey, I'm Daniel</h1>
-I'm a current cybersecurity student aspiring to begin my career in the exciting world of cybersecurity! 
+I'm a current cybersecurity student aspiring to begin my career in the exciting world of cybersecurity with a strong focus on cloud computing. 
 
   
 
 <h2>Certifications:</h2>
 
+  - [ISC2 Certified in Cybersecurity (CC)](https://github.com/danielowen321/danielowen321/blob/main/ISC2%20Certified%20in%20Cybersecurity%20Certificate.pdf)
   - [Google Cybersecurity Professional Certificate](https://github.com/danielowen321/danielowen321/blob/main/Google%20Cybersecurity%20Certificatepdf.pdf)
   - [ISO27001 Information Security Associate](https://github.com/danielowen321/danielowen321/blob/main/ISO27001%20Information%20Security%20Associate.pdf)
   - [IBM Information Technology Fundamentals](https://github.com/danielowen321/danielowen321/blob/main/IBM%20Information%20Technology%20Fundamentals.png)
