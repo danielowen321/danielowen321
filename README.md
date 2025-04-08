@@ -1,6 +1,5 @@
 <h1>Hey, I'm Daniel</h1>
-I'm a current cybersecurity student aspiring to begin my career in the exciting world of cybersecurity with a strong focus on cloud computing. 
-
+Azure Cloud Engineer with a strong focus on securing and optimizing cloud environments. I'm passionate about leveraging Microsoft Azure to design, deploy, and manage scalable and secure cloud infrastructures, ensuring high availability and efficiency for enterprise solutions.
   
 
 <h2>Certifications:</h2>
