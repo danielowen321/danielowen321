@@ -61,6 +61,7 @@ Azure Cloud Engineer with a strong focus on securing and optimizing cloud enviro
 
 <h2>Cybersecurity Projects:</h2>
 
+  - [Azure Compute and Identity Management](https://github.com/danielowen321/Azure-Compute-and-Identity-Management)
   - [Python Password Generator](https://github.com/danielowen321/danielowen321/blob/main/Python%20Password%20Generator.py)
   - [Metasploitable 2 HomeLab](https://github.com/danielowen321/Metasploitable2-HomeLab)
   - [Active Directory Lab](https://github.com/danielowen321/Active-Directory-Lab)
