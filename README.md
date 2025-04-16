@@ -57,9 +57,8 @@ Azure Cloud Engineer with a strong focus on securing and optimizing cloud enviro
 
 </div>
                                                      
-<h2>Azure Projects:</h2>
+# [Azure Projects](https://github.com/danielowen321/deploy-basic-azure-infrastructure)
 
-  - [deploy-basic-azure-infrastructure](https://github.com/danielowen321/deploy-basic-azure-infrastructure)
 
                                                            
 
