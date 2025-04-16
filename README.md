@@ -59,7 +59,7 @@ Azure Cloud Engineer with a strong focus on securing and optimizing cloud enviro
                                                      
 <h2>Azure Projects:</h2>
 
-  - [deploy-basic-azure-infrastructure](https://github.com/danielowen321/danielowen321/blob/main/Python%20Password%20Generator.py)
+  - [deploy-basic-azure-infrastructure](https://github.com/danielowen321/deploy-basic-azure-infrastructure)
 
                                                            
 
